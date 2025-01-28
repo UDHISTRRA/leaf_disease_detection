@@ -1,2 +1,2 @@
-# leaf_disease_detection
+# Leaf Disease Detection
 The project detects the diseases through an image of the leaf.
